@@ -152,8 +152,5 @@ Based on the dashboard analysis, Kepler should consider the following actions:
 
 ## Project Status
 
-Completed.
-
-This project is part of my Excel portfolio and demonstrates PivotTable-based dashboarding, slicer-driven interactivity, KPI design, customer contact analysis and business insight communication.
-
+Completed Project 2 of 5.
 
