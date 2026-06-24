@@ -1,4 +1,4 @@
-# Kepler Customer Contact Centre Analytics Dashboard
+# Kepler Customer Contact Centre Dashboard
 
 ![Kepler Dashboard Preview](e2-dashboard-preview.png)
 
