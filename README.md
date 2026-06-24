@@ -145,8 +145,8 @@ Based on the dashboard analysis, Kepler should consider the following actions:
 | ----------------------------------------------- | ---------------------------------------------------------------------- |
 | `kepler-customer-contact-centre-dashboard.xlsx` | Main Excel workbook containing the dashboard, PivotTables and analysis |
 | `e2-dashboard-preview.png`                      | Main dashboard preview image                                           |
-| `slicer-selection-1.png`                        | Example of dashboard interactivity using slicers                       |
-| `slicer-selection-2.png`                        | Additional slicer selection example                                    |
+| `e2-slicer-selection-1.png`                        | Example of dashboard interactivity using slicers                       |
+| `e2-slicer-selection-2.png`                        | Additional slicer selection example                                    |
 | `e2-insights-analysis.md`                       | Written dashboard insights and analysis                                |
 | `README.md`                                     | Project documentation                                                  |
 
