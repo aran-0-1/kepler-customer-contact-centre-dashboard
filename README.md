@@ -152,5 +152,5 @@ Based on the dashboard analysis, Kepler should consider the following actions:
 
 ## Project Status
 
-Completed Project 2 of 5.
+Completed Project 2 of 5
 
